@@ -1,4 +1,4 @@
-# Liist-of-computer-vision-related-journals-
+# List-of-computer-vision-related-journals-
 # 计算机视觉期刊列表
 
 | 期刊名称                                                                     | 中科院分区（2025)   | 录用难度  | 审稿周期   | OA                 | 其他                |
