@@ -42,17 +42,34 @@
 | JOURNAL OF ELECTRONIC IMAGING                                            | 4区，1          | 容易    | 4个月    | OA 3.25%   US$1675 |                   |
 
 
-# 计算机+中医药相关的期刊
+### 机器学习/计算机视觉/神经网络用于中草药识别 期刊信息表
 
-| 期刊名称                                                                     | 中科院分区（2025)   | 录用难度  | 审稿周期   | OA                 | 其他                |
-|--------------------------------------------------------------------------|---------------|-------|--------|--------------------|-------------------|
-|Microchemical Journal| 化学 2区,2.8 |||||
-|Scientific Reports|综合类 2区,2.8 ||||99.86%|
-|Journal of Traditional Chinese Medicine|||2个月|||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
+| 期刊名称 | 中科院分区（医学/交叉） | 录用难度 | 审稿周期 | OA 开源 | 学科方向 |
+|---|---|---|---|---|---|
+| Computers and Electronics in Agriculture | 农林科学 1 区 TOP，计算机跨学科应用 1 区 | 高 | 3–6 个月 | 可选 | 农业计算机视觉、作物/药用植物识别、精准农业 |
+| Plant Phenomics | 生物学 1 区 TOP | 高 | 3–5 个月 | OA | 植物表型组学、图像分析、AI 辅助植物性状识别 |
+| Information Processing in Agriculture | 农林科学 2 区 | 中 | 1.5–3 个月 | OA | 农业信息处理、机器学习在农业/药用植物中的应用 |
+| Frontiers in Plant Science | 生物学 2 区，植物科学 2 区 | 中 | 1.5–3 个月 | OA | 植物科学、药用植物分类、AI 辅助植物研究 |
+| Plants (MDPI) | 生物学 2 区，植物科学 2 区 | 中 | 1–2 个月 | OA | 植物科学全领域、药用植物识别、CV/ML 应用 |
+| Phytomedicine | 医学 2 区，植物药学 2 区 | 中高 | 2–4 个月 | 可选 | 偏重药理分析、植物药质量控制、AI 辅助药理研究 |
+| Artificial Intelligence in Agriculture | 农林科学 2 区 TOP | 中高 | 2–4 个月 | 可选 | 农业人工智能、作物/药用植物智能识别与诊断 |
+| BMC Plant Biology | 生物学 3 区，植物科学 3 区 | 中低 | 1–2.5 个月 | OA | 植物生物学、药用植物分子与图像识别 |
+| SN Computer Science | 计算机 4 区 | 低 | 1–2 个月 | OA | 计算机科学全领域、轻量 AI/ML 模型、快速发表 |
+| Artificial Intelligence in Medicine | 医学 2 区（小类：医学信息学 1 区） | 较难 | 约 8 个月 | 可选 | 偏向于临床决策支持、辅助诊断、医学 AI（含中医药研究） |
+| Chinese Medicine | 医学 2 区 | 中等（≈30%） | 1–2 个月 | OA | 偏重跨学科方法、中医 AI、网络药理、大数据 |
+| Journal of Integrative Medicine (JIM) | 医学 2 区（小类：全科医学与补充医学 2 区） | 中等（录取率≈40%） | 3–9 个月 | 可选 | 中西医结合、AI 诊疗、知识系统研究 |
+| Journal of Ethnopharmacology | 医学 2 区 / 药学 2 区 | 中等偏易（≈55%） | 2–4 个月 | 可选 | 要求计算机方法必须服务于药理学/民族药理学问题 |
+| Chinese Journal of Natural Medicines (CJNM) | 医学 2 区 / 药学 2 区 | 中等（≈40%） | 3–4 个月 | 可选 | 网络药理学、中药 AI、天然产物计算研究 |
+| Chinese Herbal Medicines | 医学 2 区（JCR Q1） | 中等（≈35%） | 3–5 个月 | 可选 | 中药成分预测、AI 药理、网络药理 |
+| Scientific Data (Nature 子刊) | 综合性期刊 2 区（计算机 2 区） | 难（≈10%） | 约 5.5 个月 | OA | 中医药数据集、数据标准、数据共享 |
+| Computers in Biology and Medicine（预警过） | 医学 2 区（小类：计算机跨学科应用 2 区） | 中等偏难 | 3–6 个月 | 可选 | 医学人工智能、算法应用（含中医药研究） |
+| Frontiers in Pharmacology – Ethnopharmacology | 医学 3 区（小类：药学 3 区） | 中等 | 2–3 个月 | OA | 现代药理学、AI 药效预测、民族药学 |
+| BMC Complementary Medicine and Therapies | 医学 3 区（小类：全科医学与补充医学 2 区） | 较易（≈62.5%） | 2–3 个月 | OA | 补充医学、计算方法在中医药中的应用 |
+| Journal of Medical Systems | 医学 3 区（小类：卫生保健与服务 3 区） | 较难 | 3–5 个月 | 可选 | 中医药知识图谱、数据挖掘、组学 + AI |
+| Chinese Journal of Integrative Medicine (CJIM) | 医学 3 区（小类：全科医学与补充医学 4 区） | 中等（≈35%） | 2–3 个月 | 可选 | 中西医结合 AI、临床数据挖掘、中医 NLP |
+| Advances in Integrative Medicine | 医学 4 区（ESCI 收录） | 易（≈60%） | 2–4 周 | OA | 中医数据、简单 AI 应用、整合医学计算 |
+| Traditional Medicine Research | 医学 4 区（SCIE 收录） | 易（≈65%） | 约 5 周 | OA | 中医基础数据、简易 AI 模型、传统医学计算 |
+| Journal of Traditional Chinese Medicine (JTCM) | 中科院 4 区（SCIE 收录） | 较易（录用率≈56%） | 3–5 个月 | 否 | 中医药、针灸、方剂、智能诊疗研究 |
+| 中医药信息 (Journal of Information on TCM) | 中文核心 | 较易 | 3–5 个月 | 否 | 医学信息工程、AI 舌象/脉象识别、系统建模 |
+| Digital Chinese Medicine (DCM) | 未分区（Scopus 收录） | 中等 | 2–4 个月 | OA | 中医药大数据、人工智能、知识图谱、智慧医疗 |
+
